@@ -22,8 +22,3 @@ This project utilizes a pre-trained deep learning model to identify and classify
 - PIL
 - Other dependencies (listed in `requirements.txt`)
 
-### Installation
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/Dog-Breed-Classifier.git
