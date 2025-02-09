@@ -1,0 +1,94 @@
+0,Beagle
+1,Labrador
+2,Golden Retriever
+3,Bulldog
+4,Poodle
+5,Boxer
+6,Dachshund
+7,Siberian Husky
+8,Chihuahua
+9,Rottweiler
+10,Shih Tzu
+11,Pomeranian
+12,Basset Hound
+13,Border Collie
+14,Great Dane
+15,Australian Shepherd
+16,Jack Russell Terrier
+17,Schnauzer
+18,Cocker Spaniel
+19,Shiba Inu
+20,Doberman
+21,Maltese dog
+22,Pit Bull
+23,Yorkshire Terrier
+24,Havanese
+25,Shetland Sheepdog
+26,Chow Chow
+27,Bulldog
+28,Akita
+29,Boston Terrier
+30,Cavalier King Charles Spaniel
+31,Newfoundland
+32,St. Bernard
+33,Papillon
+34,Cocker Spaniel
+35,Irish Setter
+36,English Springer Spaniel
+37,Samoyed
+38,Australian Cattle Dog
+39,Alaskan Malamute
+40,Weimaraner
+41,Collie
+42,American Bulldog
+43,English Setter
+44,Scottish Terrier
+45,West Highland White Terrier
+46,American Pit Bull Terrier
+47,Bedlington Terrier
+48,Saluki
+49,Schnauzer
+50,Chinese Shar-Pei
+51,Chihuahua
+52,Miniature Schnauzer
+53,American Cocker Spaniel
+54,Irish Wolfhound
+55,English Bulldog
+56,Cairn Terrier
+57,Manchester Terrier
+58,Whippet
+59,Hound
+60,Akita Inu
+61,standard poodle
+62,mexican hairless
+63,afghan hound
+64,airedale terrier
+65,anatolian shepherd
+66,australian cattle dog
+67,belgian malinois
+68,belgian sheepdog
+69,bernese mountain dog
+70,german shepherd
+71,great pyrenees
+72,kuvasz
+73,pomeranian
+74,treeing walker coonhound
+75,lakeland terrier
+76,Boston Bull
+77,Boston Bull Terrier
+78,Boston Terrier Dog
+79,standard poodle
+80,maltese dog
+81,walker foxhound
+82,eskimo dog
+83,doberman pinscher
+84,german shepherd dog
+85,standard poodle
+86,anatolian shepherd
+87,walker foxhound
+88,eskimo dog
+89,doberman pinscher
+90,german shepherd dog
+91,kelpie
+92,english foxhound
+93,groenendael
