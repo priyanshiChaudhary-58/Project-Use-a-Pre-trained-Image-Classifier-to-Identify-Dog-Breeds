@@ -52,7 +52,6 @@ A Python-based project that uses pre-trained CNN models (VGG, ResNet, AlexNet) t
 
 ## Acknowledgements
 - Dataset: Udacity Pet Images & ImageNet
-- Models: Pre-trained CNNs from PyTorch's Model Zoo
 
 ## Let’s connect!
 📧 Email: priyanshichy2513@gmail.com | 💼 LinkedIn: www.linkedin.com/in/priyanshi-kumari
