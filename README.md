@@ -39,7 +39,6 @@ A Python-based project that uses pre-trained CNN models (VGG, ResNet, AlexNet) t
    cd Pre-trained-Image-Classifier-to-Identify-Dog-Breeds
 
 ## Usage
-**Note**: Unzip `pet_images.zip` before running the code.
 - python check_images.py \
   --arch vgg \                  # Model: vgg/resnet/alexnet
   --dir pet_images/ \           # Input image directory
@@ -47,8 +46,8 @@ A Python-based project that uses pre-trained CNN models (VGG, ResNet, AlexNet) t
 
 ## Example Results
 **Results for VGG Model**
-- N Images: 41 | Dog Images: 23 | Non-Dog Images: 18
-- %-Correct Dogs: 78.26% | %-Correct Breed: 26.09% | Runtime: 0:0:4
+- N Images: 40 | Dog Images: 30 | Non-Dog Images: 10
+- %-Correct Dogs: 100.00%% | %-Correct Breed: 90.00% | Runtime: 0:0:1
 
 
 ## Acknowledgements
